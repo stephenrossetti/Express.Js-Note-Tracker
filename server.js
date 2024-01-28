@@ -1,8 +1,8 @@
 // Require express //
 // Set up route variables for html and api routes created in js //
 const express = require('express');
-const htmlRoute = require('./public/assets/js/routes/html');
-const apiRoute = require('./public/assets/js/routes/api');
+const htmlRoute = require('./routes/html');
+const apiRoute = require('./routes/api');
 
 // Instead of PORT = 3001 this variable will process on any environment that Heroku dynamically sets //
 // Otherwise it will default to 3001 if no port is set up //
