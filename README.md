@@ -15,6 +15,7 @@ Create new repository and utilize start code from Module-11-Challenge (i.e., cod
 ![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup3.png)
 ![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup4.png)
 ![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup5.png)
+![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup6.png)
 
 ## Usage
 
