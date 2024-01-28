@@ -4,7 +4,7 @@ const htmlRouter = require('express').Router();
 const path = require('path');
 
 // Utilized Module 11 - Activity 22 for example code on GET functions //
-// Utilize htmlRouter variable (router()) to create GET route for homepage //
+// Utilize htmlRouter variable to create GET route for homepage //
 htmlRouter.get('/', (req, res) =>
   res.sendFile(path.join(__dirname, '../public/index.html'))
 );
@@ -14,5 +14,5 @@ htmlRouter.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '../public/notes.html'))
 );
 
-// Export htmlRouter if needed
+// Export htmlRouter for server.js // 
 module.exports = htmlRouter;

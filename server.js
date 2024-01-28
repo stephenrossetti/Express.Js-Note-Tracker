@@ -1,5 +1,5 @@
 // Require express //
-// Set up route variables for html and api routes created in js //
+// Set up route variables for html and api routes created in routes -> js //
 const express = require('express');
 const htmlRoute = require('./routes/html');
 const apiRoute = require('./routes/api');
