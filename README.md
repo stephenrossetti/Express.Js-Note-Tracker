@@ -6,7 +6,7 @@ Express.js: Note Tracker, or Module 11's Challenge, is to modify existing starte
 
 ## Installation
 
-Create new repository and utilize start code from Module-11-Challenge (i.e., code from miniature-eureka). Start code includes: .gitignore, package.json, db.json, index and notes html, css and index js. Add additional javascript files needed such as server.js, api and html routes, and ID method. Installation also includes an npm install for express and other programs in package.json (creates package-lock.json and node_modules). Installation also includes previously installed nodemon as well as deployment to Heroku.
+Create new repository and utilize start code from Module-11-Challenge (i.e., code from miniature-eureka). Starter code includes: .gitignore, package.json, db.json, index and notes html, css and index js. Add additional javascript files needed such as server.js, api and html routes, and ID method. Installation also includes an npm install for express and other programs in package.json (creates package-lock.json and node_modules). Installation also includes previously installed nodemon as well as deployment to Heroku.
 
 ## Mock-Up
 
