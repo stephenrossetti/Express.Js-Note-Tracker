@@ -10,7 +10,6 @@ apiRouter.get('/api/notes', (req,res) => {
     res.json(db);
 });
 
-require('../db/db.json')
 // POST route for new note //
 apiRouter.post('/api/notes', (req, res) => {
     const data = fs.readFileSync('db/db.json');
@@ -31,6 +30,16 @@ apiRouter.post('/api/notes', (req, res) => {
     } else {
       res.error('Error in adding note');
     }
+});
+
+apiRouter.delete('/api/notes/:id', (req,res) => {
+  const data = fs.readFileSync('db/db.json');
+  const db = JSON.parse(data);
+  const newNote = db.filter((note) => {
+    return note.id !== req.params.id; 
+  });
+  fs.writeFileSync('db/db.json',JSON.stringify(newNote));
+  res.json('Deleted.');
 });
 
 module.exports = apiRouter;
