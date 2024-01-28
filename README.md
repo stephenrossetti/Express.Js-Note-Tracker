@@ -10,9 +10,11 @@ Create new repository and utilize start code from Module-11-Challenge (i.e., cod
 
 ## Mock-Up
 
-![alt text](https://github.com/stephenrossetti/Module-11-SVG-Logo-Maker/blob/main/examples/MockUp1.png)
-![alt text](https://github.com/stephenrossetti/Module-10-SVG-Logo-Maker/blob/main/examples/MockUp2.png)
-![alt text](https://github.com/stephenrossetti/Module-10-SVG-Logo-Maker/blob/main/examples/MockUp3.png)
+![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup1.png)
+![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup2.png)
+![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup3.png)
+![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup4.png)
+![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup5.png)
 
 ## Usage
 
