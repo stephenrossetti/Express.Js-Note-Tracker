@@ -19,7 +19,7 @@ Create new repository and utilize start code from Module-11-Challenge (i.e., cod
 
 ## Usage
 
-To view the walkthrough, open the HTML link here: https://drive.google.com/file/d/1lPz0HPJyYcYVyeWPH6e9tK5HYVBynwTC/view.
+To view the walkthrough, open the HTML link here: https://drive.google.com/file/d/13XbN4QoyTTfY6ttGJUsSbKYOTc8wF06d/view.
 
 To view the Heroku deployment, open the HTML link here: https://module-11-note-tracker-9fd5f5b417d9.herokuapp.com/.
 
