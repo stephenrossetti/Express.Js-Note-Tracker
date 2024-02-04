@@ -10,12 +10,12 @@ Create new repository and utilize start code from Module-11-Challenge (i.e., cod
 
 ## Mock-Up
 
-![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup1.png)
-![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup2.png)
-![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup3.png)
-![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup4.png)
-![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup5.png)
-![alt text](https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup6.png)
+![alt text](https://github.com/stephenrossetti/Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup1.png)
+![alt text](https://github.com/stephenrossetti/Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup2.png)
+![alt text](https://github.com/stephenrossetti/Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup3.png)
+![alt text](https://github.com/stephenrossetti/Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup4.png)
+![alt text](https://github.com/stephenrossetti/Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup5.png)
+![alt text](https://github.com/stephenrossetti/Express.Js-Note-Tracker/blob/main/public/assets/images/Mockup6.png)
 
 ## Usage
 
@@ -23,7 +23,7 @@ To view the walkthrough, open the HTML link here: https://drive.google.com/file/
 
 To view the Heroku deployment, open the HTML link here: https://module-11-note-tracker-9fd5f5b417d9.herokuapp.com/.
 
-To review the code, open the GitHub repository here: https://github.com/stephenrossetti/Module-11-Express.Js-Note-Tracker.
+To review the code, open the GitHub repository here: https://github.com/stephenrossetti/Express.Js-Note-Tracker.
 
 ## Credits
 
